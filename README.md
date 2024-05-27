@@ -30,3 +30,4 @@
  # Terimakasih Kepada
 <p><img src="https://iili.io/JAtMHiX.jpg" width="70px" height="70px" alt="neoxr"></p>
 <p><img src="https://iili.io/JAtOCPV.jpg" width="70px" height="70px" alt="github"></p>
+<p><img src="https://avatars.githubusercontent.com/u/123550565?v=4" width="70px" height="70px" alt="github"></p>
