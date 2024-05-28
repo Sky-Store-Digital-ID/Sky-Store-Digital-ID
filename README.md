@@ -1,4 +1,4 @@
-<p align="center"><img src="https://f.uguu.se/oUBGXHbe.png" alt="Sky Store - Bot WhatsApp"></p>
+<p align="center"><img src="https://telegra.ph/file/0cf0c67431da105455195.jpg" alt="Sky Store - Bot WhatsApp"></p>
 
 </p>
 <p align="center">
